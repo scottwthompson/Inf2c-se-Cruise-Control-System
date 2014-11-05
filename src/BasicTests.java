@@ -12,7 +12,7 @@ import org.junit.Test;
  * Test that the CCS behaves as expected at least for the basic tests.
  * You should extend this class with your own tests.
  * 
- */
+ */jdsadsadsadsad
 public class BasicTests {
 
     /**
