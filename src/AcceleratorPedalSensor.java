@@ -13,5 +13,17 @@ public class AcceleratorPedalSensor {
 	}
 	public boolean is_accelerator_on(){
 		return this.accelerator_position > 0.0;
+		s
+		
+		s
+		s
+		d
+		r
+		drtuk;dru
+		
+		
+		
+		sdf'ylk
+		;ljasdtgop'
 	}
 }
